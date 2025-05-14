@@ -16,7 +16,7 @@ const projects = [{
 }, {
   id: 2,
   title: "Google Keep Clone",
-desription : "This is a Google Keep inspired, Notes keeping app.",
+description : "This is a Google Keep inspired, Notes keeping app.",
   image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
   tags: ["React", "html", "CSS"],
   github: "https://github.com/anshumanjaiswal/keep-clone",
